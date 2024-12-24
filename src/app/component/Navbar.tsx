@@ -13,7 +13,7 @@ const Navbar = () => {
         {/* Desktop Menu */}
         <div className="hidden md:block">
           <ul className="flex gap-12 text-xl font-serif">
-            <li><Link href="http://localhost:3000">Home</Link></li>
+            <li><Link href="/component">Home</Link></li>
             <li><Link href="/component/About">About</Link></li>
             <li><Link href="/component/Blog">Blog</Link></li>
             <li><Link href="/component/Contact">Contact</Link></li>
